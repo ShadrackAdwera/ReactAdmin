@@ -1,13 +1,11 @@
-# React-admin tutorial
+# React Admin Dashboard
 
 ## How to run
 
-After having cloned the react-admin repository, run the following commands:
+Just the usuals ===> Clone the repo, run the following commands:
 
 ```sh
 npm install
 
 npm start
 ```
-
-When  
